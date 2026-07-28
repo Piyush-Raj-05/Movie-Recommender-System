@@ -64,4 +64,4 @@ Run **Movie_Recommender_System.ipynb**
 
 ## Author
 
-Akash Goswami
+Piyush Raj
